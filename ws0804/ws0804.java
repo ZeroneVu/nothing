@@ -6,6 +6,7 @@ public class ws0804 {
 		// TODO Auto-generated method stub
 		// Just simple comment to make sure that things had changed
 		// this is the 3rd line to change
+		// third line edited by adding it to develop branch
 	}
 
 }
